@@ -1,4 +1,4 @@
-
+// uses X11 development libraries, might have to install with "sudo apt-get install libx11-dev"
 // compile with g++ -O3 demo_linux.cpp -lX11
 // run with ./a.out [width] [height]
 
